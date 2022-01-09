@@ -25,7 +25,11 @@ Based on the above statistics for "Temperature" measure I can summarize that
 
 But we need to run additional queries to determine the statistics for Precipitation to determine average rainfall for the months of June and December.
 
+### Additional Queries
+#### Precipitation statistics summary for month of June:
 ![Additional Query and Output - Statistics for Precipitation for month of June](https://github.com/Bhargavi-ng/surfs_up/blob/main/Resources/Addtnal_query_June_Stats.PNG)
+
+#### Precipitation statistics summary for month of December:
 ![Additional Query and Output - Statistics for Precipitation for month of December](https://github.com/Bhargavi-ng/surfs_up/blob/main/Resources/Addtnal_query_December_Stats.PNG)
 
 Based on the above statistics for "Precipitation" measure you can see that
