@@ -19,10 +19,18 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date 
 ![Deliverable 1 Output](https://github.com/Bhargavi-ng/surfs_up/blob/main/Resources/Deliverable_1_June_Stats.PNG)
 
 ## Summary:
+Based on the above statistics for "Temperature" measure I can summarize that
+- there is just 0.5 difference in the Standard Deviation between the two months, which isn't very significant, and
+- the average temperature for June is 74.9 and for December it is 71, which are suitable for surfing and ice-cream sales.
 
+But we need to run additional queries to determine the statistics for Precipitation to determine average rainfall for the months of June and December.
 
-![Additional Query - Statistic for Precipitation for month of June](https://github.com/Bhargavi-ng/surfs_up/blob/main/Resources/Addtnal_query_June_Stats.PNG)
-![Additional Query - Statistic for Precipitation for month of December](https://github.com/Bhargavi-ng/surfs_up/blob/main/Resources/Addtnal_query_December_Stats.PNG)
+![Additional Query and Output - Statistics for Precipitation for month of June](https://github.com/Bhargavi-ng/surfs_up/blob/main/Resources/Addtnal_query_June_Stats.PNG)
+![Additional Query and Output - Statistics for Precipitation for month of December](https://github.com/Bhargavi-ng/surfs_up/blob/main/Resources/Addtnal_query_December_Stats.PNG)
+
+Based on the above statistics for "Precipitation" measure you can see that
+- there is only 0.2 difference in Standard deviation between the two months, and
+- December has maximum precipitaion of 6.42 versus June's 4.43. But, the average rainfall for December is 0.22 versus June's 0.14.
 
 ## Resources:
 #### Data resources:
