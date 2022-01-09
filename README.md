@@ -9,12 +9,12 @@ Challenge: After reviewing the data from the above analysis the investor wantsad
 #### Jypyter Notebook: [Deliverables 1 and 2 Codebase](https://github.com/Bhargavi-ng/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 ### Deliverable 1: Determine the Summary Statistics for June
-Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the Measurements table in the  [hawaii.sqlite](https://github.com/Bhargavi-ng/surfs_up/blob/main/hawaii.sqlite)database to retrieve all the temperatures for the month of JUNE. Then I converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics.
+Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the Measurements table in the  [hawaii.sqlite](https://github.com/Bhargavi-ng/surfs_up/blob/main/hawaii.sqlite) database to retrieve all the temperatures for the month of JUNE. Then I converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics.
 
 ![Deliverable 1 Output](https://github.com/Bhargavi-ng/surfs_up/blob/main/Resources/Deliverable_1_June_Stats.PNG)
 
 ### Deliverable 2: Determine the Summary Statistics for December
-Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the Measurements table in the  [hawaii.sqlite](https://github.com/Bhargavi-ng/surfs_up/blob/main/hawaii.sqlite)database to retrieve all the temperatures for the month of DECEMBER. Then I converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics.
+Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the Measurements table in the  [hawaii.sqlite](https://github.com/Bhargavi-ng/surfs_up/blob/main/hawaii.sqlite) database to retrieve all the temperatures for the month of DECEMBER. Then I converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics.
 
 ![Deliverable 1 Output](https://github.com/Bhargavi-ng/surfs_up/blob/main/Resources/Deliverable_1_June_Stats.PNG)
 
